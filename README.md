@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhi9-hash
+# 👋 Hi, I’m @abhi9-hash
 - 👀 I’m interested in Web Development, DevOps and DSA
 - 🌱 I’m currently learning Golang and DevOps
 - 💞️ I’m looking to collaborate on some exciting projects
