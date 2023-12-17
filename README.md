@@ -12,7 +12,7 @@ Final year IT undergraduate (passing year 2024) at IIIT Gwalior, India. Passiona
 
 - **Programming Languages:** C/C++, HTML,CSS, JAVASCRIPT, TYPESCRIPT. SQL, PYTHON
 - **Web Development:** MERN (MONGODB, EXPRESSJS, REACTJS, NODEJS), NEXTJS, JEST, BOOTSTRAP, MATERIAL UI
-- **Software Tools:** VSCode, DOCKER, HASURA, MS OFFICE
+- **Software Tools:** VSCODE, DOCKER, HASURA, MS OFFICE
 - **DATABASES:** MONGODB, MYSQL, POSTGRESQL, DYNAMODB
 - **Cloud:** AWS
 
