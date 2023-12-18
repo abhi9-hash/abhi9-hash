@@ -3,7 +3,7 @@
 Final year IT undergraduate (passing year 2024) at IIIT Gwalior, India. Passionate about Coding and learning. I'm eager to learn and contribute to exciting projects in the field of Information Technology. I believe in the power of technology to solve real-world problems and make a positive impact on society.
 
 - 👀 I’m interested in Web Development, DevOps and DSA
-- 🌱 I’m currently learning Golang and DevOps
+- 🌱 I’m currently learning System Design
 - 💞️ I’m looking to collaborate on some exciting projects
 - 📫 Reach me at https://abhi9-hash.github.io/IamAbhinav/
 
